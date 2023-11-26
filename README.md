@@ -6,3 +6,5 @@ As the task required, I made 4 pages in total: the index, my main page, and thre
 
 
 P.S.: I ask you to please not replicate this recipes; not that I don't trust in my cooking abilities, it is just I did not give much atention to the content in itself.
+
+P.S.2: I am now revisiting this project after a while. It is nice to see that my personal development is helping me with the tasks presented on 'TOP'; not that I studied programming while distant from it, but the way I perceive things changed my approach to them. Glad to see that at least my English skills improved. 
